@@ -1,0 +1,7 @@
+{
+  "name": "Debug snapshot",
+  "type": "python",
+  "request": "launch",
+  "program": "${workspaceFolder}/sympy/bin/snapshot",
+  "args": ["snapshot_test.md"]
+}
